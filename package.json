@@ -1,6 +1,6 @@
 {
   "name": "com.apache.cordova.plugins.zebra",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Cordova/Phonegap plugin for Zebra bluetooth printers",
   "cordova": {
     "id": "com.apache.cordova.plugins.zebra",
